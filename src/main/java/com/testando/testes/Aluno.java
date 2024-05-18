@@ -31,7 +31,7 @@ public class Aluno {
 		return Double.valueOf(String.format("%.2f", media).replace(",", "."));
 	}
 	
-	//resultado do chat usando lambda...
+	//resultado usando lambda...
 //	public double calcularMedia() {
 //		OptionalDouble mediaOptional = notas.stream()
 //				.mapToDouble(Double::doubleValue)
