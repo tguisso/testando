@@ -1,0 +1,31 @@
+## Link no Jira:
+[Link para a tarefa](URL valida aqui)
+
+## Descrição da tarefa:
+<!-- Explique brevemente a tarefa realizada, qual problema ela resolve e por que a alteração é necessária -->
+
+## O que foi alterado:
+<!-- Descreva as principais mudanças no código, componentes impactados e como isso afeta o sistema -->
+
+## Como testar:
+<!-- Instruções detalhadas para testar a alteração, incluindo pré-requisitos e cenários de teste -->
+1. Passo 1: ...
+2. Passo 2: ...
+3. Passo 3: ...
+
+## Checklist:
+- [ ] Eu testei antes de subir para o repositório
+- [ ] Segue os padrões definidos pelo projeto (formatação, boas práticas, etc)
+- [ ] Documentação atualizada (se aplicável)
+- [ ] Nenhum código não utilizado ou comentado deixado no código
+- [ ] Todos os testes existentes passam
+- [ ] Testes unitários e/ou de integração foram escritos e/ou atualizados (se aplicável)
+- [ ] A mudança não impacta outras áreas do sistema
+- [ ] Não introduz novas vulnerabilidades de segurança
+- [ ] O código foi revisado por pelo menos um colega da equipe
+
+## Capturas de tela (se aplicável):
+<!-- Adicione capturas de tela ou GIFs se a sua alteração incluir mudanças visuais ou de UI -->
+
+## Notas adicionais:
+<!-- Qualquer outra informação relevante ou contexto adicional sobre o pull request -->
